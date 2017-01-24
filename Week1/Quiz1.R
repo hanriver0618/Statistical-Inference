@@ -4,7 +4,7 @@
 ## is 12% while the probability that both the mother and father have contracted the 
 ## disease is 6%. What is the probability that the mother has contracted influenza?
 
-## P(A)+P(B)-P(A&B)=P(AUB)
+## P(A)+P(B)-P(A&B)=P(AUB) 
 PB=0.06
 PA_B=0.12
 PAB=0.06
