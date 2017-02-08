@@ -7,7 +7,7 @@
 ## P(A)+P(B)-P(A&B)=P(AUB) 
 PB=0.06
 PA_B=0.12
-PAB=0.06
+PAB=0.17
 print(PA_B+PAB-PB)
 
 ## 2 . A random variable, X is uniform, a box from 0 to 1 of height 1. (So that 
