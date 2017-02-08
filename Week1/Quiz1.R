@@ -5,9 +5,9 @@
 ## disease is 6%. What is the probability that the mother has contracted influenza?
 
 ## P(A)+P(B)-P(A&B)=P(AUB) 
-PB=0.06
-PA_B=0.12
-PAB=0.17
+PB=0.12
+PA_B=0.17
+PAB=0.06
 print(PA_B+PAB-PB)
 
 ## 2 . A random variable, X is uniform, a box from 0 to 1 of height 1. (So that 
